@@ -11,7 +11,8 @@ through documentation and code examples.
 GitHub public repository that the team uses.
 * The **home page** is to be the README.md for the repository.
 * Other mark down pages can be linked using relative links in markdown files.
-[Relative links in markdown files](https://github.com/blog/1395-relative-links-in-markup-files).
+  * [Relative links in markdown files](https://github.com/blog/1395-relative-links-in-markup-files).
+  * Here is an example of a relative link to another md: [second.md](second.md)
 * The README.md is to include near the top:
     * The two languages being compared.
     * The names of the members of the team.
